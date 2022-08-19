@@ -8,7 +8,7 @@
     "postversion": "git push && git push --tags",
     "build": "npm-sass ./src/zoo-grommet.scss > ./dist/zoo-grommet.css"
   },
-  "author": "Roger Hutchings <roger@hutchin.gs> (https://www.rogerhutchin.gs/)",
+  "author": "Zooniverse",
   "license": "Apache-2.0",
   "dependencies": {
     "grommet": "^1.9.0"
@@ -20,6 +20,6 @@
     "npm-sass": "^2.2.1"
   },
   "engines": {
-    "node": "8.x.x"
+    "node": ">=14"
   }
 }
