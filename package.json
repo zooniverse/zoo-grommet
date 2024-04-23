@@ -11,7 +11,7 @@
   "author": "Zooniverse",
   "license": "Apache-2.0",
   "dependencies": {
-    "grommet": "^1.9.0"
+    "grommet": "^2.36.1"
   },
   "publishConfig": {
     "access": "public"
